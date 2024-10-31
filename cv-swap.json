@@ -1,5 +1,6 @@
 {
-    "PHP_serverUrl": "https://cv-swap.veylax.com/app-server/",
+    "serverUrl": "https://cv-swap.veylax.com/app-server/",
+    "PHP_serverUrl": "https://cv-swap.veylax.com/app-server/php/",
     "APK_url": "https://cv-swap.veylax.com/app-server/CryptoVault.apk",
     "APK_downloadPageUrl": "https://cv-swap.veylax.com/mobile-app-page.html",
     "status": "success",

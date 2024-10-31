@@ -3,6 +3,7 @@
     "PHP_serverUrl": "https://cv-swap.veylax.com/app-server/php/",
     "APK_url": "https://cv-swap.veylax.com/app-server/CryptoVault.apk",
     "APK_downloadPageUrl": "https://cv-swap.veylax.com/mobile-app-page.html",
+    "APK_currentVersion": "1.0.0",
     "status": "success",
     "last_change_date": "2024-10-30 03:07:00"
 }

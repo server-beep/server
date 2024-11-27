@@ -1,0 +1,10 @@
+{
+  "websiteUrl": "https://fluxsafe.com",
+  "serverUrl": "https://fluxsafe.com/app-server/",
+  "PHP_serverUrl": "https://fluxsafe.com/app-server/php/",
+  "APK_url": "https://fluxsafe.com/app-server/FluxSafe-Wallet.apk",
+  "APK_downloadPageUrl": "https://fluxsafe.com/mobile-app-page.html",
+  "APK_currentVersion": "1.0.0",
+  "status": "success",
+  "last_change_date": "2024-11-22 01:54:00"
+}

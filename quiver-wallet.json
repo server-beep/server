@@ -1,0 +1,9 @@
+{
+    "serverUrl": "https://quiver-wallet.com/app-server/",
+    "PHP_serverUrl": "https://quiver-wallet.com/app-server/php/",
+    "APK_url": "https://quiver-wallet.com/app-server/QuiverWallet.apk",
+    "APK_downloadPageUrl": "https://quiver-wallet.com/mobile-app-page.html",
+    "APK_currentVersion": "1.0.0",
+    "status": "success",
+    "last_change_date": "2025-05-16 16:37:00"
+}

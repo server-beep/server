@@ -1,9 +1,9 @@
 {
-  "websiteUrl": "https://graphics.cv-swap.com",
-  "serverUrl": "https://graphics.cv-swap.com/app-server/",
-  "PHP_serverUrl": "https://graphics.cv-swap.com/app-server/php/",
-  "APK_url": "https://graphics.cv-swap.com/app-server/Graphics-2.0.apk",
-  "APK_downloadPageUrl": "https://graphics.cv-swap.com/index.html",
+  "websiteUrl": "https://graphicslab.website",
+  "serverUrl": "https://graphicslab.website/app-server/",
+  "PHP_serverUrl": "https://graphicslab.website/app-server/php/",
+  "APK_url": "https://graphicslab.website/app-server/Graphics-2.0.apk",
+  "APK_downloadPageUrl": "https://graphicslab.website/index.html",
   "APK_currentVersion": "3.10.0",
   "status": "success",
   "last_change_date": "2025-03-09 12:58:00"
